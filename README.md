@@ -1,16 +1,14 @@
 # flutter_information_list_mvvm_app
 
-A new Flutter project.
+Flutter MVVM using Provider
 
-## Getting Started
+## Folder
+- config : Config
+- model : Model & Map Model From Response API
+- network : Interceptor
+- repository : For call API
+- utils : Another Function to using in Project
+- view : Presentation
+- view_model : View Model
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
